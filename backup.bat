@@ -1,0 +1,8 @@
+"C:\Program Files (x86)\1Cv77\BIN\1cv7.exe" CONFIG /D"\\Tmpsrv\e\Base\1SBDB JilInvest\" /Nadmin /Ps1vr90x /@"C:\Users\ASG003331\1c7\jil.ini"
+"C:\Program Files (x86)\1Cv77\BIN\1cv7.exe" CONFIG /D"\\Tmpsrv\e\Base\Proekt\" /Nadmin /Ps1vr90x /@"C:\Users\ASG003331\1c7\project.ini"
+"C:\Program Files (x86)\1Cv77\BIN\1cv7.exe" CONFIG /D"\\Tmpsrv\e\Base\1SBDB Strayp\" /Nadmin /Ps1vr90x /@"C:\Users\ASG003331\1c7\strayp.ini"
+"C:\Program Files (x86)\1Cv77\BIN\1cv7.exe" CONFIG /D"z:\Locko\" /Nadmin /Ps1vr90x /@"C:\Users\ASG003331\1c7\locko.ini"
+"C:\Program Files (x86)\1Cv77\BIN\1cv7.exe" CONFIG /D"z:\Status Pro\" /Nadmin /Ps1vr90x /@"C:\Users\ASG003331\1c7\status.ini"
+"C:\Program Files (x86)\1Cv77\BIN\1cv7.exe" CONFIG /D"z:\asshold\" /Nadmin /Ps1vr90x /@"C:\Users\ASG003331\1c7\ass.ini"
+"C:\Program Files (x86)\1Cv77\BIN\1cv7.exe" CONFIG /D"z:\OOO TerriKlassic\" /Nadmin /Ps1vr90x /@"C:\Users\ASG003331\1c7\terri.ini"
+"C:\Program Files (x86)\1Cv77\BIN\1cv7.exe" CONFIG /D"z:\Domines\" /Nadmin /Ps1vr90x /@"C:\Users\ASG003331\1c7\domines.ini"
